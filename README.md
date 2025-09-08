@@ -67,7 +67,7 @@
 |-------------|------|------|
 | ICPC ECPC Qualifications Day 6 | 2024 | 🥉 129th |
 | ICPC ECPC Qualifications Day 8 | 2025 | 🥈 32th |
-| Solved 600+ problems on Codeforces | Ongoing | 💻 |
+| Solved 850+ problems on Codeforces | Ongoing | 💻 |
 | Active Competitive Programmer | Always | 🚀 |
 
 </div>
