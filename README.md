@@ -53,9 +53,9 @@
 
 ## 🌐 Problem Solving Platforms
 <div align="center">
-  <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" height="35"/></a>
+  <a href="https://codeforces.com/profile/Mark000"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" height="35"/></a>
   <img width="12" />
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/></a>
+  <a href="https://leetcode.com/u/mark00000/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/></a>
 </div>
 
 ---
